@@ -99,6 +99,7 @@ header {
 .hero-content p {
     padding-inline: 21rem;
     margin-bottom: 2rem;
+    font-size: 1.2em;
 }
 
 .hero .btn, 
@@ -137,13 +138,13 @@ svg {
   display: flex;
   justify-content: space-evenly;   
   align-items: center;
-  padding-top: 3%;
+  padding: 3% 0;
 }
 
 .first-data h2, 
 .second-data h2 {
     text-align: center;
-    font-size: 5.5em;
+    font-size: 5em;
 }
 
 .first-data p, 
@@ -180,14 +181,18 @@ main {
     background-color: #F6FBFF;
 }
 
-.content h2, 
-.asking h2 {
+.content h2 {
     margin-bottom: 1.5rem;
     font-size: 2em;
 }
 
+.asking h2 {
+    margin-bottom: 1.5rem;
+    font-size: 2.3em;
+}
+
 .main-section .asking {
-    padding-top: 13%;
+    padding-top: 15%;
 }
 
 .asking .asking-content {
@@ -209,7 +214,7 @@ footer {
 }
 
 .footer-section {
-    padding: 10% 0;
+    padding: 8% 0;
     display: flex;
     justify-content: center;
     gap: 20rem;
@@ -325,6 +330,7 @@ svg:hover {
 
     .hero-content p {
         padding-inline: 0;
+        font-size: 0.9em;
     }
 
     main {
@@ -346,6 +352,7 @@ svg:hover {
     .hero .btn, 
     .asking .btn {
         padding: 1rem 4rem;
+        font-size: 0.9em;
     }
     .content {
         flex-direction: column-reverse;
