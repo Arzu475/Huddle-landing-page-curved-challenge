@@ -81,7 +81,7 @@ header {
 }
 
 .hero {
-    padding-top: 14%;
+    padding-top: 20%;
     display: flex;
     flex-direction: column;
     gap: 90px;
@@ -137,12 +137,13 @@ svg {
   display: flex;
   justify-content: space-evenly;   
   align-items: center;
+  padding-top: 3%;
 }
 
 .first-data h2, 
 .second-data h2 {
     text-align: center;
-    font-size: 4em;
+    font-size: 5.5em;
 }
 
 .first-data p, 
@@ -290,6 +291,16 @@ footer {
     gap: 1.3rem;
 }
 
+.twitter {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+svg:hover {
+    background-color: rgba(0, 255, 255, 0.747);
+    border-radius: 5px;
+}
+
 /* Handphone Breakpoints */
 @media (max-width: 600px) {
     body {
@@ -332,6 +343,10 @@ footer {
         font-size: 3em;
     }
 
+    .hero .btn, 
+    .asking .btn {
+        padding: 1rem 4rem;
+    }
     .content {
         flex-direction: column-reverse;
         gap: 4rem;
@@ -373,7 +388,7 @@ footer {
     }
 
     .subscribe-news .btn {
-        width: 30%;
+        width: 40%;
        
     }
 }

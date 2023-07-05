@@ -4,11 +4,11 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ## Table of contents
   - [Built with](Vanila CSS)
-  - [What I learned](#About landing page)
+  - [What I learned](About landing page)
   - [Continued development](#continued-development)
   - [Useful resources](#w3schools)
 - [Author](#Arzu475)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Arzu475/Huddle-landing-page-curved-challenge)
+- Live Site URL: [Add live site URL here](https://arzu475.github.io/Huddle-landing-page-curved-challenge/)
 
 ## My process
 
@@ -39,18 +39,9 @@ Users should be able to:
 - Flexbox
 - Vanilla CSS
 
-
-### What I learned
-
-I learned about landing page for advance. I'm very glad for done this challenge.
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@Arzu475](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Arzu475](https://www.frontendmentor.io/profile/Arzu475)
 - Twitter - [@AkhundZuu](https://www.twitter.com/Akhund_Zuu)
 
