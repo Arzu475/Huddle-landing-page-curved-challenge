@@ -154,7 +154,7 @@ svg {
 }
 
 main {
-    padding-bottom: 15%;
+    padding-bottom: 0;
 }
 
 .content {
@@ -193,6 +193,10 @@ main {
 
 .main-section .asking {
     padding-top: 15%;
+}
+
+.asking-content {
+    padding-bottom: 14%;
 }
 
 .asking .asking-content {
@@ -333,9 +337,6 @@ svg:hover {
         font-size: 0.9em;
     }
 
-    main {
-        padding-bottom: 50%;
-    }
     .data-content {
         flex-direction: column;
         gap: 4rem;
@@ -352,7 +353,11 @@ svg:hover {
     .hero .btn, 
     .asking .btn {
         padding: 1rem 4rem;
-        font-size: 0.9em;
+        font-size: 0.95em;
+    }
+
+    .asking-content {
+        padding-bottom: 45%;
     }
     .content {
         flex-direction: column-reverse;
